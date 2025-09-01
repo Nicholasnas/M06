@@ -14,7 +14,8 @@ dependencies = [
     "matplotlib (>=3.10.5,<4.0.0)",
     "ipython (>=9.4.0,<10.0.0)",
     "jupyter (>=1.1.1,<2.0.0)",
-    "notebook (>=7.4.5,<8.0.0)"
+    "notebook (>=7.4.5,<8.0.0)",
+    "sqlalchemy (>=2.0.43,<3.0.0)"
 ]
 
 [tool.poetry]
